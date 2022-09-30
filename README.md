@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">
-  Ignite (ELIXIR) - Rocketseat
+  Ignite (Elixir) - Rocketseat
 </h1>
 
 <h3 align="center">
@@ -38,6 +38,7 @@
   <a href="#memo-licença">Licença</a>
 </p>
 
+
 ## Tecnologias e recursos
 
 - [Elixir](https://elixir-lang.org/install.html)
@@ -46,15 +47,21 @@
 
 Nesse desafio, você deverá criar uma função que, dada uma lista de números (exemplo [1, 3, 6, 43, 6]), calcule, recursivamente, quantos elementos há na lista e retorne esse valor.
 
-<p align="center">
-  <img  src="./assets/cover-elixir.png">
-</p>
+``
+iex> ListLength.call([1, 2, 3, 5, 7])
+...> 5
+``
 
-### Rotas da aplicação
 
+## Específicação dos testes
 
-### Específicação dos testes
+Em cada teste, você encontrará uma breve descrição do que sua aplicação deve cumprir para que o teste passe.
 
+Para esse desafio, temos os seguintes testes:
+
+<h1 align="left">
+    <a href="https://www.notion.so/Testes-test-list_length_test-exs-beef33b644d644d2aa11b29840f19864">🔗 Exemplo</a>
+</h1>
 
 ## :calendar: Entrega
 
