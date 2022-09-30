@@ -30,10 +30,8 @@
 <p align="center">
   <a href="#tecnologias-e-recursos">Tecnologias e Recursos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#sobre-o-desafio">Sobre o desafio</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-    <a href="#rotas-da-aplicação">Rotas da aplicação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#específicação-dos-testes">Especificação de testes</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#instalação-e-execução">Instalação e execução</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#arquivo-do-insomnia">Arquivo do Insomnia</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#calendar-entrega">Entrega</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
 </p>
@@ -59,6 +57,10 @@ Em cada teste, você encontrará uma breve descrição do que sua aplicação
 
 Para esse desafio, temos os seguintes testes:
 
+- **`Count list elements`**: Para que esse teste passe, você deverá criar um módulo chamado ListLength com uma função chamada call, e no escopo dela irá escrever o seu código para a correção do desafio.
+
+- **`Passing an empty list`**: Para que esse teste passo, você deverá criar uma função para tratar caso seja passado uma lista vazia de elementos.
+
 <h1 align="left">
     <a href="https://www.notion.so/Testes-test-list_length_test-exs-beef33b644d644d2aa11b29840f19864">🔗 Exemplo</a>
 </h1>
@@ -72,6 +74,22 @@ Esse desafio foi entregue na plataforma Skylab - Rocketseat.
 </p>
 
 ## Instalação e execução
+
+```bash
+# OBS.: ANTES DE PROCEDIMENTO, CERTIFIQUE-SE QUE O ELIXIR ESTEJA INSTALADO NO SEU COMPUTADOR CORRETAMENTE.
+
+# Clone esse repositório
+$ git clone https://github.com/cleyton1986/rocketseat-ignite-elixir-desafio01-using-recursion
+
+# Entre no diretório
+$ cd rocketseat-ignite-elixir-desafio01-using-recursion
+
+# para compilar o projeto, execute o comando
+$ mix compile
+
+# para rodar os testes, execute o comando
+$ mix test
+```
 
 
 ## :memo: Licença
