@@ -68,7 +68,7 @@ Para esse desafio, temos os seguintes testes:
 Esse desafio foi entregue na plataforma Skylab - Rocketseat.
 
 <p align="center">
-  <img  src="./assets/resultTeste.png">
+  <img  src="./assets/test-result.png">
 </p>
 
 ## Instalação e execução
