@@ -1,4 +1,7 @@
 
+<p align="center">
+  <img  src="./assets/cover-elixir.png">
+</p>
 
 <h1 align="center">
   Ignite (ELIXIR) - Rocketseat
@@ -44,7 +47,7 @@
 Nesse desafio, você deverá criar uma função que, dada uma lista de números (exemplo [1, 3, 6, 43, 6]), calcule, recursivamente, quantos elementos há na lista e retorne esse valor.
 
 <p align="center">
-  <img  src="./assets/nodejs-example.png">
+  <img  src="./assets/cover-elixir.png">
 </p>
 
 ### Rotas da aplicação
